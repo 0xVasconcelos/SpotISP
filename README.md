@@ -44,9 +44,12 @@ docker run --restart=always --name SpotISP \
 - audio-fac.spotify.com
 - audio-ak.spotify.com.edgesuite.net
 - audio4-ak.spotify.com.edgesuite.net
+- heads-cf.spotify.com *
 
 
 Point all of theses entries to your local server. Please send a pull requst if you find a new compatible one.
+
+* head server, send the first 3 seconds of a song.
 
 ## Tested
 
