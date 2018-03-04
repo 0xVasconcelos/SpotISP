@@ -19,7 +19,23 @@ So, this only works on endpoints that are http based, most mobile endpoints work
 
 ## Installing
 
-TO DO
+You need install Docker, or put the nginx.conf on your nginx server.
+
+
+```
+git clone https://github.com/lucaslg26/SpotISP
+
+cd spotisp
+
+mkdir -p /mnt/spotift-audio-cache
+
+docker run --restart=always --name SpotISP \
+       -v /var/tmp:/mnt/temp \
+       -v /mnt/spotify-audio-cache:/spotify-audio-cache \
+       -v $PWD/nginx.conf:/etc/nginx/nginx.conf:ro \
+       -p 80:80 -it nginx
+
+```
 
 ## DNS List of compatible endpoints
 
