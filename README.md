@@ -23,12 +23,12 @@ TO DO
 
 ## DNS List of compatible endpoints
 
-audio-sp-atl.spotify.com
-audio-cf.spotify.com
-audio-fac.spotify.com
-audio-ak.spotify.com.edgesuite.net
+- audio-sp-atl.spotify.com
+- audio-cf.spotify.com
+- audio-fac.spotify.com
+- audio-ak.spotify.com.edgesuite.net
 
-Point all of theses entries to your local server.
+Point all of theses entries to your local server. Please send a pull requst if you find a new compatible one.
 
 ## Tested
 
