@@ -10,7 +10,7 @@ Hacking purpose. I have a lot of devices that use Spotify service, so, why I nee
 
 ## Use cases
 
-If you have a ISP, you can setup my project on a server with dedicated resources to cache Spotify audio files to get a better performance for your customers.
+If you have a ISP, you can setup my project on a server with dedicated resources to cache Spotify audio files to get a better performance for your customers. 
 
 ## Limitations
 
