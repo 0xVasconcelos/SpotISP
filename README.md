@@ -27,6 +27,8 @@ TO DO
 - audio-cf.spotify.com
 - audio-fac.spotify.com
 - audio-ak.spotify.com.edgesuite.net
+- audio4-ak.spotify.com.edgesuite.net
+
 
 Point all of theses entries to your local server. Please send a pull requst if you find a new compatible one.
 
